@@ -20,7 +20,7 @@ In this project, I explored a stroke dataset that contains various numeric predi
 - Cleaning & Formatting: I converted the target variable to a factor and ensured that all predictors were correctly formatted. I also made sure that no feature was directly “leaking” information about the target.
 
 2. Model Building
-I built several models to compare performance:
+I built several models to compare performance
 
 - Logistic Regression (GLM): A basic model that gives a probability of being at risk.
 - Decision Tree: A simple, interpretable model that splits data based on feature values.
